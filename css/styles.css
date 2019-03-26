@@ -1,5 +1,5 @@
-body {
-  background-color: slategrey;
+html {
+  background-color: blue;
 }
 
 h1 {
@@ -47,11 +47,16 @@ a {
 }
 
 .light-background {
-  background-color: white;
+  background-color: pink;
   color: black;
 }
 
 .original-background {
-  background-color: slategrey;
+  background-color: slategray;
   color: black;
+}
+
+p {
+  padding: 8px;
+  border: 9px solid black;
 }

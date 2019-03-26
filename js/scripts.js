@@ -9,6 +9,6 @@ $(function() {
   });
   $("button#original").click(function() {
     $("body").removeClass();
-    $("body").addClass("original-background");
+    //$("body").addClass("original-background");
   });
 });

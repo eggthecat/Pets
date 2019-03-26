@@ -40,3 +40,18 @@ li:nth-child(1) {
 a {
   color: purple;
 }
+
+.dark-background {
+  background-color: black;
+  color: white;
+}
+
+.light-background {
+  background-color: white;
+  color: black;
+}
+
+.original-background {
+  background-color: slategrey;
+  color: black;
+}
